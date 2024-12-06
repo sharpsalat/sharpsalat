@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Den!
 
-- I'm currently a Software Engineer at Alrosa IT 🔭.
+- I'm currently a Software Engineer at Akvelon 🔭.
 
 ## 🛠  Conctacts:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-litvintsev/)
